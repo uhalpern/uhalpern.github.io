@@ -1,43 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Urban Halpern",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "uhalpern@hawaii.edu",
+    "phone": "808-769-8436",
+    "website": "https://uhalpern.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "uhalpern", "url": "http://github.com/uhalpern" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science" },
+    { "name": "Machine Learning" },
+    { "name": "Data Visualization" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Javascript", "Python", "LaTex", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Hilo, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-22",
+      "endDate": "2022-05-13",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-08-21",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,8 +52,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Hilo",
+      "position": "Research Assistant",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
