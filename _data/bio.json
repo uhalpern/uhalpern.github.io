@@ -18,7 +18,7 @@
   "interests": [
     { "name": "Data Science" },
     { "name": "Machine Learning" },
-    { "name": "Data Visualization" },
+    { "name": "Data Visualization" }
   ],
   "skills": [
     {
@@ -39,7 +39,7 @@
       "endDate": "2022-05-13",
       "courses": [
       ]
-    }
+    },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2024)",
