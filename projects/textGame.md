@@ -13,7 +13,7 @@ summary: "I created a text-based adventure game based off of the (*Alien*) serie
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/textGameMap.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/textgameMap3.png" class="img-thumbnail" >
   <img width="200px" src="../img/textgamelang.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
