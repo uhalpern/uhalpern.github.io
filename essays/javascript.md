@@ -15,7 +15,8 @@ labels:
 Learning a new programming language has always filled me with both excitement and trepidation. On one hand, learning how I can apply the language to solve new problems feels like gaining access to a key that can unlock new possibilities. On the other hand, hitting the roadblocks that come with learning something new can be frustrating and demoralizing. So far, learning the basics of JavaScript has been smooth sailing, as it shares many aspects from other languages I have learned in the past.
 
   
-
+\
+\
   
 ## A Marriage Between Python and C
 
