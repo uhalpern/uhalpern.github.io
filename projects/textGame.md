@@ -9,7 +9,7 @@ labels:
   - Text-based
   - Puzzle
   - C++
-summary: "I created a text-based adventure game based off of the *Alien* series."
+summary: "I created a text-based adventure game based off _of_ the <em>Alien</em> series."
 ---
 
 <div class="text-center p-4">
