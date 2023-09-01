@@ -11,9 +11,10 @@ labels:
   - Future
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/javascript/JavaScriptPic.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript/softwarengineeringpic.jpg">
 
 The period of my life post high school when I was choosing what I wanted to do for the rest of my life was a tumultuous time. It was fun searching for potential college majors that peaked my interest but making that final decision to commit was like taking the first step onto a path of uncertainty. I chose computer science on a whim. I had no previous programming experience throughout highschool but had researched the potential careers and it seemed like a safe bet. Eventually, I would come to discover that the path ahead of me was one that I wanted to stay on.
+
 <br/>
 
 ## Training Phase
