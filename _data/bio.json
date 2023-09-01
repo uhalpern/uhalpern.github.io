@@ -53,38 +53,40 @@
       "company": "UH Hilo",
       "position": "Research Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-01",
+      "endDate": "2021-05",
+      "summary": "Conducted research in the field of human-in-the-loop machine learning.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created an evaluator tasked with keeping track of the effect that the AI had on annotation efficiency",
+        "Visualized the total actions and change in actions done by the user",
+        "Refractored old code and fixed any bugs that were found"
       ]
     },
     {
-      "company": "Hilo High Key Club",
-      "position": "Service Project Chair",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Walmart",
+      "position": "Remodel Associate",
+      "website": "",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted in remodeling the store by dismantling old fixtures and replacing them with updated models.",
+        " Fixtures ranged from shelves, counters, warehouse steel, cash registers, and television displays",
+        "Supported regular store functions such as stocking freight and assisting customers around the store"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Hilo High Key Club",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Member",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Participated in a multitude of service projects over the course of two years for a total of over 100 service hours.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provided relief for people affected by the 2018 Puna Eruption",
+        "Helped with a Keiki Shopping day to provide cheap second hand items for kids in need"
       ]
     },
     {
@@ -104,15 +106,15 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2020",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Deans List",
+      "date": "2020-2023",
+      "awarder": "UH Hilo and UH Manoa",
+      "summary": "Awarded to full time students that maintain a 3.5 GPA or higher."
     }
   ],
   "references": [
