@@ -16,6 +16,7 @@ Learning a new programming language has always filled me with both excitement an
 
   
 
+  
 ## A Marriage Between Python and C
 
 If you’ve coded in C or C++ before,  the similar syntax will make you feel right at home with JavaScript. From using curly braces ‘{}’ to define code blocks, to having identical structure with their for loops and if statements, these two languages have shared design patterns that can ease the transition for programmers experienced with one beforehand. The switch statement also makes a welcome return to improve efficiency and readability of conditions checked against a single value. 
