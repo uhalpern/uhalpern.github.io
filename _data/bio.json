@@ -53,8 +53,8 @@
       "company": "UH Hilo",
       "position": "Research Assistant",
       "website": "",
-      "startDate": "2021-01",
-      "endDate": "2021-05",
+      "startDate": "2021",
+      "endDate": "",
       "summary": "Conducted research in the field of human-in-the-loop machine learning.",
       "highlights": [
         "Created an evaluator tasked with keeping track of the effect that the AI had on annotation efficiency",
@@ -66,8 +66,8 @@
       "company": "Walmart",
       "position": "Remodel Associate",
       "website": "",
-      "startDate": "2023-06",
-      "endDate": "2023-08",
+      "startDate": "2023",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Assisted in remodeling the store by dismantling old fixtures and replacing them with updated models.",
