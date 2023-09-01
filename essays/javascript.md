@@ -12,12 +12,10 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascript/JavaScriptPic.jpg">
 
-Learning a new programming language has always filled me with both excitement and trepidation. On one hand, learning how I can apply the language to solve new problems feels like gaining access to a key that can unlock new possibilities. On the other hand, hitting the roadblocks that come with learning something new can be frustrating and demoralizing. So far, learning the basics of JavaScript has been smooth sailing, as it shares many aspects from other languages I have learned in the past.
+Learning a new programming language has always filled me with both excitement and trepidation. On one hand, learning how I can apply the language to solve new problems feels like gaining access to a key that can unlock new possibilities. On the other hand, hitting the roadblocks that come with learning something new can be frustrating and demoralizing. So far, learning the basics of JavaScript has been smooth sailing, as it shares many aspects from other languages I have learned in the past. 
 
-  
-\
-\
-  
+<br/>
+
 ## A Marriage Between Python and C
 
 If you’ve coded in C or C++ before,  the similar syntax will make you feel right at home with JavaScript. From using curly braces ‘{}’ to define code blocks, to having identical structure with their for loops and if statements, these two languages have shared design patterns that can ease the transition for programmers experienced with one beforehand. The switch statement also makes a welcome return to improve efficiency and readability of conditions checked against a single value. 
