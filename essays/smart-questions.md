@@ -15,89 +15,37 @@ labels:
 
 ## A Fear of Questions
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
-
 Have you ever been sitting in a class and as your professor is explaining a complicating concept, a feeling of confusion startes to creep into your mind? If you're like me, although this emotion is usually followed by a desire to reach out and inquire about the part that just doesn't make sense to me, my thoughts remains unspoken as the fear of asking a stupid question overtakes the confusion. 'I'll just look over the notes at home,' I think to myself. Sometimes, one of my classmates has the exact same question and I internally thank them as they face the potential ridicule for the both of us. Even Chat GPT, the artifical intelligence tool of the future, will provide an inaccurate solution if prompted incorrectly. Thankfully, I have learned of ways we can make our questions more thoughtful and effective so that the answers we recieve are just as insightful.
 
 ## Strategic Inquiry
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+One of the most popular forums for novice programmers is Stack Overflow. Throughout my various programming classes, I have encountered issues with my code and have referred to this site many times. From this site, I found the following question that reflects the style of a smart question. In particular, the user is asking how to replace NaN values to zeros in a pandas data frame.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Header: "How to replace NaN values by Zeroes in a column of a Pandas Dataframe?"
 
-One of the most popular forums for novice programmers is Stack Overflow. Throughout my various programming classes, I have encountered issues with my code and have referred to his site many times. From this site, I found the following question that reflects the style of a smart question. In particular, the user is asking
+<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/smartQuestion.png">
 
-```
-Q: python date of the previous month
+While there are a few ways he could have improved his question, this user followed many of the steps necessary to elicit responses. First, the subject header for the question is both clear and concise. When I found it, I knew right from the start that the user was having issues with a Pandas Dataframe which implicitly implies that he is coding in python. The specific issue that he is trying to solve is also outlined clearly in the header. Further along, he provides a model of the dataframe so that potential solvers can be sure that they are seeing the same things that the asker is seeing. In addition, the user provided the ways in which he attempted to replace NaN with zeros, including errors that appeared when utilizing various methods. This communicates the notion that he has put in the effort to solve the problem on his own and that he is willing to learn.
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+This question produced an equally exceptional answer:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
+<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/smartAnswer.png">
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+
+This was only the top answer out of seventeen but the others provided were precise and void of any hostility from the people answering. The thread is very popular on the website with 630 upvotes for the question and 972 for the answer which displays how useful other people found it.
+
 
 ## Questionable Tactics
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+The next question is an example of one that does not effectively communicate the problem to Stack OverFlow users:
 
-```
-Q: Facebook Desktop Notifier
+Header: "Array has multi strings against text with multiline ( regular expression) Python"
 
-I am a beginner programmer that have never used anything other than what's included in a language.
+<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/dumbQuestions.png">
 
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
+From the header alone, it is difficult to tell what the question is pertaining to. He at least specified that the language he was working in is Python. Other than that, the header would make it difficult to find this question on the web. Although he tries to communicate the goal of his code, this is not reflected in the answers he got. As seen above, one other user replied with “Your code’s goal is a bit confusing” and another user asked for some expected values of the code and referred the asker to a page about how to provide better context for debugging problems. In the replies to the users attempting to help him out, the asker adds more specifications that were not originally in the question which wastes the time of the people trying to figure out what the problem was.
 
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+As programmers, it is almost guaranteed that we run into a problem with our code that we cannot solve ourselves. Collaboration is an essential part of surviving the software development landscape and facilitates quality assurance. As a student, knowing how to ask the “correct” questions will save you the anxiety of potential embarrassment. That is why, learning how to effectively relay a question to your peers and coworkers will serve as a vital skill in both school and the workplace.
