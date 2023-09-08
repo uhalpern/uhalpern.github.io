@@ -21,13 +21,13 @@ One of the most popular forums for novice programmers is Stack Overflow. Through
 
 Header: "How to replace NaN values by Zeroes in a column of a Pandas Dataframe?"
 
-<br><img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/smartQuestion.png"><br>
+<br><img width="600px" class="img-thumbnail" src="../img/smart-questions/smartQuestion.png"><br>
 
   While there are a few ways he could have improved his question, this user followed many of the steps necessary to elicit responses. First, the subject header for the question is both clear and concise. When I found it, I knew right from the start that the user was having issues with a Pandas Dataframe which implicitly implies that he is coding in python. The specific issue that he is trying to solve is also outlined clearly in the header. Further along, he provides a model of the dataframe so that potential solvers can be sure that they are seeing the same things that the asker is seeing. In addition, the user provided the ways in which he attempted to replace NaN with zeros, including errors that appeared when utilizing various methods. This communicates the notion that he has put in the effort to solve the problem on his own and that he is willing to learn.
 
 This question produced an equally exceptional answer:  
 
-<br><img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/smartAnswer.png"><br>
+<br><img width="600px" class="img-thumbnail" src="../img/smart-questions/smartAnswer.png"><br>
  
 
   This was only the top answer out of seventeen but the others provided were precise and void of any hostility from the people answering. The thread is very popular on the website with 630 upvotes for the question and 972 for the answer which displays how useful other people found it.
@@ -39,7 +39,7 @@ The next question is an example of one that does not effectively communicate the
 
 Header: "Array has multi strings against text with multiline ( regular expression) Python"  
   
-<br><img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/dumbQuestions.png"><br>
+<br><img width="600px" class="img-thumbnail" src="../img/smart-questions/dumbQuestions.png"><br>
 
   From the header alone, it is difficult to tell what the question is pertaining to. He at least specified that the language he was working in is Python. Other than that, the header would make it difficult to find this question on the web. Although he tries to communicate the goal of his code, this is not reflected in the answers he got. As seen above, one other user replied with “Your code’s goal is a bit confusing” and another user asked for some expected values of the code and referred the asker to a page about how to provide better context for debugging problems. In the replies to the users attempting to help him out, the asker adds more specifications that were not originally in the question which wastes the time of the people trying to figure out what the problem was.
 
