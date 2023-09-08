@@ -4,14 +4,12 @@ type: essay
 title: "The Art of Asking Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
-published: false
+published: true
 labels:
   - Questions
   - Answers
   - StackOverflow
 ---
-
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## A Fear of Questions
 
