@@ -16,6 +16,7 @@ labels:
 Have you ever been sitting in a class and as your professor is explaining a complicating concept, a feeling of confusion startes to creep into your mind? If you're like me, although this emotion is usually followed by a desire to reach out and inquire about the part that just doesn't make sense to me, my thoughts remains unspoken as the fear of asking a stupid question overtakes the confusion. 'I'll just look over the notes at home,' I think to myself. Sometimes, one of my classmates has the exact same question and I internally thank them as they face the potential ridicule for the both of us. Even Chat GPT, the artifical intelligence tool of the future, will provide an inaccurate solution if prompted incorrectly. Thankfully, I have learned of ways we can make our questions more thoughtful and effective so that the answers we recieve are just as insightful.
 
 ## Strategic Inquiry
+<hr >
 
 One of the most popular forums for novice programmers is Stack Overflow. Throughout my various programming classes, I have encountered issues with my code and have referred to this site many times. From this site, I found the following question that reflects the style of a smart question. In particular, the user is asking how to replace NaN values to zeros in a pandas data frame.  
 
@@ -34,6 +35,7 @@ This question produced an equally exceptional answer:
 
 
 ## Questionable Tactics
+<hr >
 
 The next question is an example of one that does not effectively communicate the problem to Stack OverFlow users:
 
@@ -45,5 +47,6 @@ Header: "Array has multi strings against text with multiline ( regular expressio
 
 
 ## Conclusion
+<hr >
 
 As programmers, it is almost guaranteed that we run into a problem with our code that we cannot solve ourselves. Collaboration is an essential part of surviving the software development landscape and facilitates quality assurance. As a student, knowing how to ask the “correct” questions will save you the anxiety of potential embarrassment. That is why, learning how to effectively relay a question to your peers and coworkers will serve as a vital skill in both school and the workplace.
