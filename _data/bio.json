@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Data Science" },
     { "name": "Machine Learning" },
-    { "name": "Video Games" }
+    { "name": "Programming" },
+    { "name": "Game Development"}
   ],
   "skills": [
     {
