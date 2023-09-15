@@ -17,7 +17,7 @@ Learning a new programming language has always filled me with both excitement an
 <br/>
 
 ## A Marriage Between Python and C
----
+<hr >
 
 If you’ve coded in C or C++ before,  the similar syntax will make you feel right at home with JavaScript. From using curly braces ‘{}’ to define code blocks, to having identical structure with their for loops and if statements, these two languages have shared design patterns that can ease the transition for programmers experienced with one beforehand. The switch statement also makes a welcome return to improve efficiency and readability of conditions checked against a single value. 
 
@@ -25,7 +25,7 @@ Of course, syntax is not the only aspect of a programming language that one must
 
 
 ## Standing Out in the Code Crowd
----
+<hr >
 Even with its similarities to C and Python, JavaScript still has some quirks that separates itself from other languages. For example, using the ‘let’ and ‘const’ keywords makes the code more readable and efficiently conveys which variables can be changed. The strict comparison operators are also a welcome addition to catch any errors with dynamic typing. I especially appreciate the inclusion of Promises which seems like it can prove useful for web development.
 
 ## A Final Word
