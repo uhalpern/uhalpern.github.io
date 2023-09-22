@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Conventional Programming: Hindrance or a Necessity"
+title: "Conventional Programming: Hindrance or Necessary"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
 published: true
