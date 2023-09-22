@@ -15,8 +15,6 @@ labels:
 
 Programming can be a frustrating endeavor and when you finally get something to run, it's easy to call it a day and ship off your code without a second thought. Should I really care about a missing semicolon or an extra line if the right output is shown on the console? I have carried this sentiment even more in the middle of the WODS we have in class. When the pressure is on and the time is ticking down, the only prevailing thought in my head is if the console output matches the example output for the problem at hand. The path of destruction left in the wake of my coding frenzy is of minimal concern to me. However, after using Eslint, I believe there is still ample merit to the usefulness of coding standards even though there are some arguments against the need for such conventions.
 
-<br/>
-
 ## Messy Code: Do the Ends Justify the Means?
 <hr >
 
