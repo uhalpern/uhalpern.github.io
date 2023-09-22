@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingstandards/warning.jpg">
+<img width="150px" class="rounded float-start pe-4" src="../img/codingstandards/warning.jpg">
 
 Programming can be a frustrating endeavor and when you finally get something to run, it's easy to call it a day and ship off your code without a second thought. Should I really care about a missing semicolon or an extra line if the right output is shown on the console? I have carried this sentiment even more in the middle of the WODS we have in class. When the pressure is on and the time is ticking down, the only prevailing thought in my head is if the console output matches the example output for the problem at hand. The path of destruction left in the wake of my coding frenzy is of minimal concern to me. However, after using Eslint, I believe there is still ample merit to the usefulness of coding standards even though there are some arguments against the need for such conventions.
 
@@ -20,14 +20,14 @@ Programming can be a frustrating endeavor and when you finally get something to 
 ## Messy Code: Do the Ends Justify the Means?
 <hr >
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingstandards/error.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/codingstandards/error.png">
 
 Some programmers may be very result-oriented as they code, like me during the WODS. They have their own style and their own habits that have allowed them to succeed time and time again. For these people, Eslint may feel like a creative restriction that can disrupt the flow of their coding process. I have especially noticed that when I see the red error lines pop up on my screen, I feel the immediate need to rectify the issue it presents instead of finishing the logic component of my code. One of the standards that has gotten on my nerves is the need to have spaces after each item in an array. For some of the practice WODS, I was left wondering why I had so many Eslint errors only to find out that it was because I had hastily defined an array with no spaces. Even though I know adding spaces improves the readability of the code and although it does not take long to fix, going against my habits and seeing my screen filled with red error alerts can pose a significant challenge. 
 
 ## Harmonizing Code with Standards
 <hr >
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingstandards/checkmark.png">  
+<img width="150px" class="rounded float-start pe-4" src="../img/codingstandards/checkmark.png">  
 
   
 Although there are some arguments to be made for coding without standards, I think the aspect of communication is the most important consideration for using them. Take the act of writing for example. There are many different ways we can write a sentence: <em>iLoveToCode</em> vs. <em>I_love_to_code</em> vs. <em>I love to code.</em> Each of these statements contains the same message but the method of communication is different. As programmers, we may have an easy time understanding camelCase and snake_case but the standard way to write a sentence in English is to separate each word by a space and end it in a period. By standardizing the method used for communication, readers can focus on the content of the message instead on getting lost in translation. 
