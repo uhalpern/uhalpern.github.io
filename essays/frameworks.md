@@ -27,7 +27,7 @@ After my relatively short experience with trying to create web pages with CSS an
 
 
 <div style="text-align:center">
-  <img width="80%" class="rounded float-start pe-4" src="../img/frameworks/unevenColumns.png" style="border: 5px solid 	#89de8b;">
+  <img width="80%" class="thumbnail" src="../img/frameworks/unevenColumns.png" style="border: 5px solid 	#89de8b;">
 </div>
 
 
@@ -40,7 +40,7 @@ Although I was able to solve the problem above with just CSS, Bootstrap would ha
 Even though Bootstrap has definitely been useful, one area that I have had difficulty with is blending together CSS styles and Bootstrap utilities in order to get exactly what I want. One example of when I would have to rely more on CSS was when I was re-creating the Popeyes front page and I needed to model a button off of the following one:
 
 <div style="text-align:center">
-  <img width="150px" class="rounded float-start pe-4" src="../img/frameworks/popeyesSignUp.png" style="border: 5px solid #89de8b;">
+  <img width="150px" class="thumbnail" src="../img/frameworks/popeyesSignUp.png" style="border: 5px solid #89de8b;">
 </div>
 
 
