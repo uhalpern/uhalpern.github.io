@@ -27,7 +27,7 @@ After my relatively short experience with trying to create web pages with CSS an
 
 
 <div style="text-align:center" class="p-3">
-  <img width="80%" class="thumbnail p-3" src="../img/frameworks/unevenColumns.png" style="border: 5px solid 	#89de8b;">
+  <img width="80%" class="thumbnail" src="../img/frameworks/unevenColumns.png" style="border: 5px solid 	#89de8b;">
 </div>
 
 
