@@ -12,7 +12,7 @@ labels:
   - CSS
 ---
 
-<img width="200px" class="img-thumbnail" src="../img/frameworks/bootstrapIcon.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/frameworks/bootstrapIcon.png">
 
 Having looked underneath the hood of the websites that we use in our daily lives, I can say for sure that what goes into producing these pages is a lot more complicated than what is on the surface. Between adding pictures, sectioning off elements, and creating navigation bars, I can only describe the process of making webpages as tedious. The road map that we took in my software engineering class to learn web development took us from raw html, to html and css, and finally, to using Bootstrap as a UI framework. When each new tool was introduced, I was able to see how it transformed the web development process to become more efficient and streamlined. At the same time, getting used to a new instrument each time came with its fair share of aches and pains. Reflecting back on this journey, Bootstrap is undoubtedly an extremely useful framework for developing user interfaces.
 
@@ -26,7 +26,7 @@ Once I started using CSS for my class assignments, things were starting to final
 After my relatively short experience with trying to create web pages with CSS and html, I would describe the process as monotonous and tiresome. When first starting out, I quickly realized that although you can be as precise as you want with the layout of your website, it can quickly devolve into a rigid structure that offers no flexibility. In particular, while doing the Browser History assignment for my software engineering class, we were asked to create a webpage with three 300 pixel wide columns. For me, this resulted in the following layout:
 
 
-<div style="text-align:center">
+<div style="text-align:center" class="p-3">
   <img width="80%" class="thumbnail p-3" src="../img/frameworks/unevenColumns.png" style="border: 5px solid 	#89de8b;">
 </div>
 
@@ -39,8 +39,8 @@ Although I was able to solve the problem above with just CSS, Bootstrap would ha
 
 Even though Bootstrap has definitely been useful, one area that I have had difficulty with is blending together CSS styles and Bootstrap utilities in order to get exactly what I want. One example of when I would have to rely more on CSS was when I was re-creating the Popeyes front page and I needed to model a button off of the following one:
 
-<div style="text-align:center">
-  <img width="150px" class="thumbnail p-3" src="../img/frameworks/popeyesSignUp.png" style="border: 5px solid #89de8b;">
+<div style="text-align:center" class="p-3">
+  <img width="150px" class="thumbnail" src="../img/frameworks/popeyesSignUp.png" style="border: 5px solid #89de8b;">
 </div>
 
 
