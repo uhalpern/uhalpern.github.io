@@ -4,7 +4,7 @@ type: essay
 title: "Generating User Interface..."
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
-published: true
+published: false
 labels:
   - Software Engineering
   - Web Design

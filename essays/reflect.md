@@ -4,7 +4,7 @@ type: essay
 title: "A Reflective Expedition in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-15
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
