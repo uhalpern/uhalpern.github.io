@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lung_cancer/pytorch-logo-png.pdf
+image: img/lung_cancer/pytorch-logo-png.png
 title: "Lung Cancer Feature Extraction"
 date: 2024
 published: true
