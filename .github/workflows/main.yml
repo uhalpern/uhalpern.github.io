@@ -7,11 +7,11 @@ on:
 
 jobs:
   github-pages:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -21,10 +21,16 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.3' # Use the correct Ruby version for your project
+          ruby-version: '3.3.3'
 
       - name: Update RubyGems
-        run: gem update --system
+        run: |
+          gem update --system
+          ruby -v       # Check Ruby version
+          gem -v        # Check RubyGems version
+
+      - name: Install Dependencies
+        run: bundle install --path vendor/bundle
 
       - uses: limitusus/json-syntax-check@v1
         with:
@@ -35,4 +41,3 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
-
