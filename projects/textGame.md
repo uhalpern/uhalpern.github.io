@@ -4,7 +4,7 @@ type: project
 image: img/textgame/textBasedThumb.png
 title: "Alien Adventure Game"
 date: 2021
-published: true
+published: false
 labels:
   - Text-based
   - Puzzle
