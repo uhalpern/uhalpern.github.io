@@ -21,7 +21,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' # Use the correct Ruby version for your project
+          ruby-version: '3.1.0' # Use the correct Ruby version for your project
 
       - name: Update RubyGems
         run: gem update --system
